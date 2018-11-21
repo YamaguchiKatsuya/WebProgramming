@@ -1,0 +1,44 @@
+.y1{
+	background-color:#808080 ;
+}
+.y2{
+	background-color:#4689FF ;
+	color:#fff
+}
+.y3{
+	background-color:#43FF6B ;
+	color:#fff
+}
+.y4{
+	background-color:#FF0000 ;
+	color:#fff
+}
+.p{
+	text-align:center;
+	margin:50px
+}
+.m{
+	margin:50px;
+}
+.m15{
+	margin:15px;
+	width:200px;
+}
+.m30{
+	margin:30px;
+}
+.l{
+	text-align:left;
+	color:blue;
+	margin-top :100px;
+}
+.r{
+	text-align:right;
+	margin-right:30px;
+}
+.red{
+	color:red;
+}
+.b{
+	color:blue;
+}
